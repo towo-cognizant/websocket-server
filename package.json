@@ -1,0 +1,22 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/towo-cognizant/websocket-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/towo-cognizant/websocket-server/issues"
+  },
+  "homepage": "https://github.com/towo-cognizant/websocket-server#readme",
+  "dependencies": {
+    "ws": "^8.18.2"
+  }
+}
